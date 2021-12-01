@@ -1,0 +1,5 @@
+{
+    "merge-conflict.autoNavigateNextConflict.enabled": true,
+    "python.analysis.completeFunctionParens": true,
+    "python.globalModuleInstallation": true
+}
